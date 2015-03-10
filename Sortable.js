@@ -695,6 +695,9 @@
 
 				lastEl =
 				lastCSS =
+				
+				oldIndex =
+				newIndex =
 
 				activeGroup =
 				Sortable.active = null;
